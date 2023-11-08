@@ -8,3 +8,4 @@ This is a website containing the presentations I have given over the course of m
 
 - Cats: The Fluffier the Better.
 
+![](https://bit.ly/python_cat)
